@@ -1,3 +1,7 @@
+// TokanProperty Basic Template - Next.js + Tailwind CSS
+
+import Link from 'next/link';
+
 export default function Home() {
   const properties = [
     {
